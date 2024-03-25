@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite-svelte",
-  "author": "frostime",
-  "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.3.4",
+  "name": "sy-custom-font",
+  "author": "owlright",
+  "url": "https://github.com/owlright/sy-custom-font",
+  "version": "0.1.0",
   "minAppVersion": "3.0.0",
   "backends": [
     "windows",
@@ -19,12 +19,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "Custom fonts",
+    "zh_CN": "定制字体"
   },
   "description": {
     "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "zh_CN": "上传字体，指定字体生效范围"
   },
   "readme": {
     "en_US": "README.md",
@@ -32,10 +32,10 @@
   },
   "funding": {
     "custom": [
-      "https://afdian.net/a/frostime"
+      "https://afdian.net/a/owlright"
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "plugin", "font", "定制字体"
   ]
 }
